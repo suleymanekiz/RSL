@@ -1,0 +1,23 @@
+------------------
+PERSONAL SELECTION
+------------------
+One of my favorite movies are The Godfather, Pirates of the Caribbean and Interstellar. 
+
+------------------
+SUMMARY
+------------------
+Starting with the summary, the results are looking good when recommendations about other Pirates of the Caribbean movies are shown.
+Unfortunately, the list after does not represent my taste, and therefore, it is an unfortunate. 
+
+------------------
+TITLE
+------------------
+When creating a Recommender system when involving the 'Title' of a movie, the results are okay. The recommendations are to my flavor; however, only part iii of the movies are shown. 
+My title of preference was The Godfather. Maybe a search into 'God' would change the Recommender system. Nonetheless, I tested this keyword as well, but The Godfather did not shown its url once. Although the results show 3 outcomes, they are still likeable and watchable.
+Unfortunately, the threshold needed to be set very low in order to come towards an output of 3 recommendations. 
+
+------------------
+STARRING
+------------------
+With starring, the outcomes presented were much smoother. A variety of movies were recommended. The starring host was 'Depp' also familiarized with Johnny Depp. 
+Despite the richness of the outcome, it still required an extreme low thresold in order to present an outcome. However, the recommendations provided were suitable to watch further, or even to save for watching it later.
