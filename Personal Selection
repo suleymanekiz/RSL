@@ -1,0 +1,30 @@
+------------------
+PERSONAL SELECTION
+------------------
+One of my favorite movies are Rocky, Godfather, Lord of the Rings. 
+
+------------------
+SUMMARY
+------------------
+Starting with the summary, the results are looking good when recommendations about Rocky movies are shown. 
+I tried to select The Godfather, however, the results were poor. Only 3 movies were recommended along with very low recommendation scores.
+Comparing it to the movie Rocky, the recommender shows great results. I expected more of the trilogy regarding Rocky so that dissapointed me.
+There are some great action movies in the list of recommendations, however, movies such as 'Babe' and 'Finding Nemo' miss the boat in my opinion.
+ 
+
+------------------
+TITLE
+------------------
+When I created a Recommender system involving the 'Title' of a movie, the results are okay. The recommendations are to my flavor. 
+The trilogy of The Lord of the Rings are shown. Not in the right order, but it does the job. 
+Unfortunately, there is no extention of any other adventurous movies.
+Moreover, the threshold needed to be set very low in order to come towards an output of 3 recommendations. 
+
+------------------
+STARRING
+------------------
+With starring, the outcomes presented were much smoother. A variety of movies were recommended. The starring host was 'Depp' also familiarized with Johnny Depp. 
+Despite the richness of the outcome, it still required an extreme low thresold in order to present an outcome. 
+This probably needed to be lowered due to the pick of url based on the movie 'Charlie and the Chocolate Factory'. 
+Maybe a different selection would generate better outcomes.
+However, the recommendations provided were suitable to watch further, or even to save for watching it later.
