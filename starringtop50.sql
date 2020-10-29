@@ -29,4 +29,4 @@ CREATE table recommendationsbasedonstarrings AS
 SELECT url, rank FROM coolmetamovies WHERE rank > 0.0000000000000000000000000001 ORDER BY rank DESC limit 50;
 
 /*copy the results into a csv file within the working directory */
-\copy (SELECT * FROM recommendationsBasedOnStarrings) to '/home/pi/RSL/top50Starringrecommendations.csv' WITH csv
+\copy (SELECT * FROM recommendationsBasedOnStarrings) to '/home/pi/RSL/top50Starringrecommendations.csv' WITH csv;
